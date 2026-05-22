@@ -11,3 +11,5 @@ print("Name:", name)
 print("Age:", age)
 
 print("Student Status:", is_student)
+favorite_food = "Ice cream"
+print("Favorite food:", favorite_food)
